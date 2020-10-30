@@ -1,3 +1,3 @@
-# half-life-generator-with-chart
-:)
-This will use turtle to write a graph that displays a sample decay phenomenon. This is similar to the penny demonstration where 100 pennies are shuffled and the heads or tails are removed and the process repeats. I will add a second graph for the lost samples at some point.
+# Penny Decay Experiment Simulation (with graph)
+
+This script will simulate an experiment that we did in 8th grade. In the experiment, students were given 100 pennies each. The students would then flip every penny and remove the pennies that landed on heads (or tails, it doesn't matter). The students would then repeat the process with the remainder of the pennies until none were left. Anyways, I got extra credit when I showed my science teacher the cool program I wrote :D
